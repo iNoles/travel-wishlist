@@ -1,4 +1,4 @@
-# Travel Wishlist
+# Travel Wishlist - Full-Stack Web Application
 
 A full-stack travel planning application to manage and track your dream destinations. Users can register, log in, create destinations, and mark them as visited. The app features secure authentication, JWT refresh tokens, and automated tests for both backend and frontend.
 
