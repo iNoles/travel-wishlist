@@ -1,8 +1,43 @@
 # Travel Wishlist - Full-Stack Web Application
 
-A full-stack travel planning application to manage and track your dream destinations. Users can register, log in, create destinations, and mark them as visited. The app features secure authentication, JWT refresh tokens, and automated tests for both backend and frontend.
+Travel Wishlist is a full‑stack web application that lets users plan and track dream travel destinations. It demonstrates real‑world software development skills, including secure authentication, backend APIs, database integration, frontend UI, and automated testing.
 
----
+## Project Overview
+
+This app allows users to:
+
+- Register and log in with secure authentication
+- Create, view, and mark destinations as visited
+- Interact with a frontend that consumes a RESTful API
+- Persist data using a backend database
+- Use automated tests to validate functionality
+
+This project simulates the development workflow used in professional environments.
+
+## Tech Stack
+
+**Backend**
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQLite database
+- JWT authentication with refresh tokens
+
+**Frontend**
+
+- Vue 3
+- TypeScript
+- Reactive state management
+
+**Testing**
+
+- Backend: xUnit unit tests
+- Frontend: Playwright end‑to‑end tests
+
+**Tools**
+
+- Git / GitHub for version control
+- Bun / npm for package management
+- Docker (optional deployment enhancements
 
 ## Features
 
@@ -13,8 +48,6 @@ A full-stack travel planning application to manage and track your dream destinat
 - Vue 3 frontend with reactive state management
 - Unit tests (xUnit) for backend auth flows
 - End-to-end tests (Playwright) for frontend auth and dashboard interactions
-
----
 
 ## Setup
 
@@ -62,3 +95,14 @@ Run Playwright tests:
 ```bash
 npx playwright test
 ```
+
+## What This Demonstrates (for Employers)
+
+This project showcases your ability to:
+
+✔️ Build a secure full‑stack web application from scratch  
+✔️ Implement **authentication and authorization**  
+✔️ Design and integrate a backend REST API  
+✔️ Build a **responsive user interface** that talks to the backend  
+✔️ Write **automated tests** showing professional development skills  
+✔️ Organize a project resembling a real job task
