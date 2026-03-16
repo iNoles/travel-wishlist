@@ -16,28 +16,32 @@ This project simulates the development workflow used in professional environment
 
 ## Tech Stack
 
-**Backend**
+### Backend
+
 - ASP.NET Core Web API
 - Entity Framework Core
 - SQLite database
 - JWT authentication with refresh tokens
 
-**Frontend**
+### Frontend
 
 - Vue 3
 - TypeScript
 - Reactive state management
 
-**Testing**
+### Testing
 
 - Backend: xUnit unit tests
 - Frontend: Playwright end‑to‑end tests
 
-**Tools**
+### Tools
 
 - Git / GitHub for version control
 - Bun / npm for package management
 - Docker (optional deployment enhancements
+
+## Screen Shots
+![Main](main.jpeg)
 
 ## Features
 
